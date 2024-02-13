@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  color: #333;
+  text-align: center;
+}
+
+.myCanvas {
+  border: 3px solid #333;
+  margin: 0 auto;
+  border-radius: 1rem;
+}
